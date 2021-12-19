@@ -5,3 +5,5 @@
 ![alt text](https://github.com/STaRiCHDED/CG/blob/main/pic/Mnogougol.png?raw=true)
 ## ДЗ6 - кривые Безье
 ![alt text](https://github.com/STaRiCHDED/CG/blob/main/pic/BEZIE.png?raw=true)
+## ДЗ7 - кривые Безье
+![alt text](https://github.com/STaRiCHDED/CG/blob/main/pic/ROTATE.png?raw=true)
